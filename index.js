@@ -17,7 +17,7 @@ moongose.connect("mongodb+srv://cutcopy:resone@cluster0-ycwow.mongodb.net/cutcop
 
 
 
-const token = 'NzE2NTAwOTc3NTk4OTg4Mjg5.XtMs5Q.GalrKauUHy91yVFspb15tVMUwSg';
+const token = 'enter discord token here';
 
 var PREFIX  = '-';
 
